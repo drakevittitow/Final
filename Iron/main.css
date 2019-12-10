@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+
+.Iron{
+    color: red;
+    font-size: 95px;
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Black Ops One', cursive;
+}
+
+a.Run {
+    color: darkcyan;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
+
+a.Trooper {
+    color: darkcyan;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
+
+a.Aces {
+    color: darkcyan;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Black Ops One', cursive;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: wheat;
+    font-family: 'Black Ops One', cursive;
+    font-size: 25px;
+}

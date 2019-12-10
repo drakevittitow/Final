@@ -1,3 +1,39 @@
-div {
+h1 {
     text-align: center;
+    font-size: 75px;
+    font-family: 'Righteous', cursive;
+    color: gold;
+}
+
+body {
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+
+div :nth-of-type(1){
+    text-decoration: none;
+    color: darkgreen;
+    font-size: 100px;
+    font-family: 'Vibes', cursive;
+}
+
+a.judas{
+    color: blue;
+    font-size: 95px;
+    font-family: 'Audiowide', cursive;
+}
+
+.Black{
+    color: purple;
+    font-size: 95px;
+    font-family: 'Chewy', cursive;
+    text-decoration: none;
+}
+
+.Iron{
+    color: red;
+    font-size: 95px;
+    font-family: 'Black Ops One', cursive;
+    text-decoration: none;
 }

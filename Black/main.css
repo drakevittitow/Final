@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+
+.Black {
+    text-decoration: none;
+    color: purple;
+    text-align: center;
+    font-size: 90px;
+    font-family: 'Chewy', cursive;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Chewy', cursive;
+}
+
+a.Paranoid {
+    color: yellow;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Chewy', cursive;
+    text-align: center;
+}
+
+a.War {
+    color: yellow;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Chewy', cursive;
+    text-align: center;
+}
+
+a.Heaven{
+    color: yellow;
+    font-size: 60px;
+    text-decoration: none;
+    font-family: 'Chewy', cursive;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: wheat;
+    font-family: 'Chewy', cursive;
+    font-size: 25px;
+}

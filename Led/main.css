@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+.Zeppelin {
+    text-decoration: none;
+    color: darkgreen;
+    font-size: 75px;
+    font-family: 'Vibes', cursive;
+}
+
+p {
+color: white;
+font-size: 30px;
+text-align: center;
+font-family: 'Vibes', cursive;
+}
+
+a.Stairway{
+    color: darkorange;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Vibes', cursive;
+    text-align: center;
+}
+
+a.Immigrant {
+    color: darkorange;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Vibes', cursive;
+    text-align: center;
+}
+
+a.Whole {
+    color: darkorange;
+    font-size: 40px;
+    text-decoration: none;
+    font-family: 'Vibes', cursive; 
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: wheat;
+    font-family: 'Vibes', cursive;
+    font-size: 25px;
+}

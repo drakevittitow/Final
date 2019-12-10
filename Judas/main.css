@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    background-color: black;
+    text-align: center;
+}
+
+.Judas {
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+    font-size: 62px;
+    font-family: 'Audiowide', cursive;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Audiowide', cursive;
+}
+
+a.Breaking {
+    color: yellowgreen;
+    font-size: 45px;
+    text-decoration: none;
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+}
+
+a.Electric {
+    color: yellowgreen;
+    font-size: 45px;
+    text-decoration: none;
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+}
+
+a.Painkiller {
+    color: yellowgreen;
+    font-size: 45px;
+    text-decoration: none;
+    font-family: 'Audiowide', cursive;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    color: wheat;
+    font-family: 'Audiowide', cursive;
+    font-size: 25px;
+}
